@@ -48,7 +48,7 @@ const Import: React.FC = () => {
     }));
 
     setUploadedFiles(submitedFiles);
-  };
+  }
 
   return (
     <>
